@@ -1,0 +1,18 @@
+.fotos-flex{
+  display: flex;
+  justify-content: space-evenly;
+}
+.fotos-click img{
+  width: 300px;
+  height: 300px;
+  cursor: pointer;
+}
+.foto-screen{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 60px;
+}
+.foto-screen img {
+  width: 350px;
+  height: 350px;
+}
